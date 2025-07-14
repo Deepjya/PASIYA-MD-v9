@@ -1,8 +1,8 @@
 {
-  "name": "Vortex-X",
-  "description": "Javascript WhatsApp bot made by HansTech",
+  "name": "pasiya-md",
+  "description": "Javascript WhatsApp bot made by pasiya-md",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["Hans-Xmd"],
+  "keywords": ["pasiya-md"],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -14,7 +14,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "PASIYA-MD"
      }, 
     "PREFIX": {
     "description": "paste your bot prefix note! Don't apply null prefix.",
@@ -69,22 +69,22 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃 🖤*"
+      "value": "*SEEN YOUR STATUS POWER_buy PASIYA-MD🖤*"
     }, 
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "HansTech"
+      "value": "pasidu sampath"
     }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "2557607XXXX"
+      "value": "+94784548818"
     }, 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
+      "value": "PASIYA-MD"
     }, 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
@@ -114,7 +114,7 @@
       "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTz*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pasidu sampath*"
     },
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
