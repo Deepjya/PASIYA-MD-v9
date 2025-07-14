@@ -14,9 +14,9 @@ module.exports = {
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
-    OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255614195217",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "+94784548818",
+    OWNER_NAME: process.env.OWNER_NAME || "pasidu sampath",
+    DEV: process.env.DEV || "+94784548818",
 
     // ==============================
     //         ANTI CALL
@@ -66,18 +66,18 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS POWER_buy PASIYA-MD*",
     
     // ==============================
     //      BOT APPEARANCE
     // ==============================
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
-    STICKER_NAME: process.env.STICKER_NAME || "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃",
+    BOT_NAME: process.env.BOT_NAME || "PASIYA-MD",
+    STICKER_NAME: process.env.STICKER_NAME || "PASIYA-MD",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTech*",
+    LIVE_MSG: process.env.LIVE_MSG || "> PASIYA-MD⚡ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pasidu sampath*",
 
     // ==============================
     //         REACTIONS
