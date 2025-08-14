@@ -9,14 +9,14 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&nlR3wSrT#TtHQmvgLqOqRszKdEuIv_XqJ99AyNV9sxEsLXHovxuk",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "+94784548818",
-    OWNER_NAME: process.env.OWNER_NAME || "pasidu sampath",
-    DEV: process.env.DEV || "+94784548818",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "+94766378148",
+    OWNER_NAME: process.env.OWNER_NAME || "DEEP JAYASINGHE",
+    DEV: process.env.DEV || "+94766378148",
 
     // ==============================
     //         ANTI CALL
@@ -63,21 +63,21 @@ module.exports = {
     // ==============================
     //          STATUS
     // ==============================
-    AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+    AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
-    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS POWER_buy PASIYA-MD*",
+    AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "false",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS POWER_buy DEEP-MD*",
     
     // ==============================
     //      BOT APPEARANCE
     // ==============================
     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/di5kdx.jpg",
     PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "PASIYA-MD",
-    STICKER_NAME: process.env.STICKER_NAME || "PASIYA-MD",
+    BOT_NAME: process.env.BOT_NAME || "⚡ DEEP-MD ⚡",
+    STICKER_NAME: process.env.STICKER_NAME || "DEEP-MD",
     ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/di5kdx.jpg",
-    LIVE_MSG: process.env.LIVE_MSG || "> PASIYA-MD⚡ IS ALIVE",
-    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pasidu sampath*",
+    LIVE_MSG: process.env.LIVE_MSG || "> ⚡DEEP-MD⚡ IS ALIVE",
+    DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴇᴇᴘ ᴊᴀʏᴀꜱɪɴɢʜᴇ ©*",
 
     // ==============================
     //         REACTIONS
